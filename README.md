@@ -9,3 +9,5 @@ Workflow:
 5. Find many YouTube comments about Mamdani 
 6. Apply model to these comments to get a large dataset
 7. Perform analysis of public sentiment over time towards Mamdani.
+
+*Note model.safetensors was too big to upload
